@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Liquid-Labs/bash-qa/issues"
   },
-  "homepage": "https://github.com/Liquid-Labs/bash-qa#readme"
+  "homepage": "https://github.com/Liquid-Labs/bash-qa#readme",
+  "liq": {
+    "orgBase": "git@github.com:Liquid-Labs/Liquid-Labs.git"
+  }
 }

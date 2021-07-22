@@ -6,7 +6,7 @@ _**WARNING: This is prototype software not currently intended for public use.**_
 
 ```bash
 npm i --save-dev @liquid-labs/bash-qa
-# create Makefile.bash-qa and updates/creates Makefile
+# Update make and generate a Dockerfile
 $(npm bin)/bash-qa-init
 make test
 ```
